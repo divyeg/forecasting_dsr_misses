@@ -21,8 +21,4 @@ senior leadership to successfully articulate goals based on scientific model vs 
 this number accutately is to capture the trend in the metric. To begin with, data was collected for DSR numerator at daily level and exploratory
 analysis is done to find visual evidence that DSR numerator is a function of time t. 
 After establishing that DSR(num) follows the equation: ∆y=α+βt+γy_(t-1)+ δ_1 ∆y_(t-1))+⋯+ δ_(p-1) ∆y_(t-(p-1) )+ ∈_t, time series decomposition
-was performed to separate trends, seasonality and residual. XGBoost and SARIMAX model was tried to fit and predict the DSR misses.
-
-### Result: 
-The project was shutdown because my team thinks it is politically incorrect to calculate accurate forecasts and that if I leave the team
-who will manage these solutions. This project was done out of passion and a lot of self learning was achieved.
+was performed to separate trends, seasonality and residual. XGBoost and SARIMAX model was tried to fit and predict the DSR misses
